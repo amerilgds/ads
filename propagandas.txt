@@ -1,1 +1,2 @@
 adssettings.google.com
+ad.doubleclick.net
